@@ -79,7 +79,7 @@ A **complete, production-ready e-commerce platform** for a premium clothing bran
 ### Steps
 ```bash
 1. Clone repository
-- git clone https://github.com/yourusername/uhd-wears.git
+- git clone https://github.com/aurabydaniyal/Ecommerce-Clothing-Website.git
 
 2. Move to htdocs (XAMPP) or www (WAMP)
 - mv uhd-wears C:/xampp/htdocs/
